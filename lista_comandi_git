@@ -1,0 +1,5 @@
+git init //inizializza repository....
+git add nomefile //aggiunge file sotto version control..
+git add . //aggiunge tutti i file
+git remote add nome ulr (https://github.com/LucaZappiniZappO/prova2.git) // aggiunge i file nel repository remoto su git hub
+git remote -v //riconosce il repo..
